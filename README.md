@@ -57,7 +57,7 @@ The dataset contains the following fields:
 
 ## 📸 Screenshot
 
-*(Add your dashboard screenshot here)*
+*(Screenshot is attached as a png file)*
 
 ---
 
